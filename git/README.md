@@ -10,9 +10,9 @@
 - Committed
   - Arquivos estão armazedos de forma segura no banco de dados
 - Modified
- - Arquivos alterados, porém não foram adicionados ao banco de dados
+  - Arquivos alterados, porém não foram adicionados ao banco de dados
 - Staged
-  - Arquivos que foram alterados estão marcados para o estado de committed
+    - Arquivos que foram alterados estão marcados para o estado de committed
 
 ![stages](areas.png) 
 
