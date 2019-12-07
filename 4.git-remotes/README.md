@@ -5,6 +5,8 @@
 
 - Colaborar se resume em push and pull em remotes.
 
+- Github/Gitlab
+
 ## Remote Commands
 - ```git remote``` 
 - ```git remote -v```
